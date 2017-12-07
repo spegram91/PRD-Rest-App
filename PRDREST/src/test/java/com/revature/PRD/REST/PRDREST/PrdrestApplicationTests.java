@@ -1,4 +1,4 @@
-package com.revature.PRD.REST.PRDREST.PRDREST;
+package com.revature.PRD.REST.PRDREST;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
